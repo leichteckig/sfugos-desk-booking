@@ -1,0 +1,25 @@
+{
+  "name": "sfugos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "cypress": "^6.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leichteckig/sfugos-desk-booking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leichteckig/sfugos-desk-booking/issues"
+  },
+  "homepage": "https://github.com/leichteckig/sfugos-desk-booking#readme"
+}

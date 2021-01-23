@@ -1,0 +1,9 @@
+{
+  "baseUrl": "EnterYourURLHere",
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "env": {
+    "user": "EnterYourEmailHere",
+    "pwd": "EnterYourPasswordHere"
+  }
+}
