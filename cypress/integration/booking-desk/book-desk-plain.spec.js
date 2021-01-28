@@ -5,7 +5,6 @@ describe('Test desk booking', () =>  {
         cy.visit('/');
 
         // Login
-        cy.get('.user-form').should('be.visible');
         cy.get('#inputUsername').type(Cypress.env('user'));
         cy.get('#inputPassword').type(Cypress.env('pwd'),{ log: false });
         cy.get('.btn-primary').click();
